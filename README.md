@@ -1,10 +1,21 @@
-# Welcome to your Expo app 👋
+# CoffeeCup Expo App
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Introduction
 
 CoffeeCup is a mobile application designed for coffee enthusiasts to easily order their favorite drinks, manage their shopping cart, track orders, and redeem loyalty rewards. Built with modern React Native technologies, it offers a smooth and intuitive user experience across iOS and Android devices.
+
+## Preview
+<img width="230" height="405" alt="image" src="https://github.com/user-attachments/assets/72816e9e-1b22-4eb4-91a8-a2982548035f" />
+<img width="242" height="428" alt="image" src="https://github.com/user-attachments/assets/5131a9bf-d7ac-48df-8d41-b623c90b9f66" />
+<img width="247" height="401" alt="image" src="https://github.com/user-attachments/assets/e3f337bd-6632-4a29-9d77-b9f6eea31919" />
+<img width="240" height="415" alt="image" src="https://github.com/user-attachments/assets/707d9118-e9ee-4c21-afe8-33baa108668c" />
+<img width="252" height="410" alt="image" src="https://github.com/user-attachments/assets/0b86edec-ae19-4829-8b4b-9ecd5cb4833a" />
+
+
+
+
 
 ## Project Structure
 
